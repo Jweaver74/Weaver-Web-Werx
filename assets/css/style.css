@@ -10,7 +10,7 @@ body {
 header {
   padding: 40px;
   text-align: center;
-  background:black;
+  background: black;
   color: #fff;
   font-size: 30px;
 }
@@ -42,7 +42,7 @@ main {
 
 aside {
   flex: 1;
-  background-color:rgb(227, 149, 2);
+  background-color: rgb(227, 149, 2);
   padding: 80px;
   text-align: center;
 }
@@ -87,6 +87,7 @@ footer {
 
 
 @media screen and (max-width: 768px) {
+
   main,
   nav {
     flex-direction: column;
