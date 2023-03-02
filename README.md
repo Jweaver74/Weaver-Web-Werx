@@ -14,7 +14,7 @@ I created my portfolio website to show my work through out the boot camp and to 
 
 
 ## What I learned
-I learned up to this point in my bootcamp, the proper skills to design HTML and CSS. Proper Github commands along with deploying my work within Github pages.
+What I have learned up to this point in my bootcamp, is the proper skills needed to plan, code, and deploy a website containing HTML and CSS. Proper Github commands along with deploying my work within Github pages.
 
 
 
