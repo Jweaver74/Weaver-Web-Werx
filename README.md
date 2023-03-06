@@ -3,7 +3,7 @@
 Portfolio Setup
 
 
-# Mock-up
+# Screen Shot
 ![alt text](assets/images/mockup.png)
 
 # Link to live site
