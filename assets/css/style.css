@@ -85,16 +85,22 @@ footer {
   width: 100%;
 }
 
-aside button{
+main h2{
+  text-align: center;
+}
+
+main button{
   border: none;
   outline: 0;
   display: inline-block;
   padding: 10px 25px;
-  background-color: tan;
+  background-color:rgb(227, 149, 2) ;
   color:black;
   text-align: center;
   cursor: pointer;
   font-size: 20px;
+  position: relative;
+ top: 5%;
 }
 
 
