@@ -4,7 +4,7 @@ Portfolio Setup
 
 
 # Screen Shot
-![alt text](assets/images/mockup.png)
+![alt text](assets/images/card%20resize.png)
 
 # Link to live site
 [Weaver Web Werx](https://jweaver74.github.io/Weaver-Web-Werx/)
